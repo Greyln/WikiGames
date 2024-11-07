@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: #1F1F1F;
+}
+
+.titulo {
+    background-color: #7345d6;
+    color: #bfab93;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+    font-size: 42px;
+    align-items: center;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #111111;
+    padding-left: 2vw;
+    color: #bfab93;
+    z-index: 1;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.linkNavegador {
+    color: #bfab93;
+    text-decoration: none;
+}
+
+.cont-ul {
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+    padding: 1.5vw;
+    transition: all .3s ease 0s;
+    z-index: 1;
+}
+
+li:hover {
+    background-color: #6743a5;
+    z-index: 1;
+}
+
+.develop {
+    position: relative;
+    z-index: 1;
+}
+
+.parent1 {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6, 3fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    width: 100%;
+    height: 500px;
+}
+
+.Noticias1, .Noticias2, .Noticias3, .Noticias4, .Noticias5 {
+    background-color: #c13252;
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    height: 100%;
+}
+.Noticias1 video{
+    height: 480px;
+}
+.Noticias2 img, .Noticias5 img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: 100%; 
+    object-fit: cover;
+}
+.Noticias3 img, .Noticias4 img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: 80%; 
+    object-fit: cover;
+}
+.Noticias5 img{
+
+    height: 90%;
+}
+.Noticias1 p, .Noticias2 p,.Noticias3 p, .Noticias4 p, .Noticias5 p {
+    margin-top: 5px; 
+    font-size: 14px; 
+    color: rgba(255, 255, 255, 0.76); 
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 4px; 
+    border-radius: 5px;
+    width: fit-content; 
+    display: inline-block;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.Noticias1 {
+    grid-area: 1 / 1 / 7 / 3;    
+}
+
+.Noticias2 {
+    grid-area: 1 / 3 / 3 / 7;
+}
+
+.Noticias3 {
+    grid-area: 3 / 3 / 5 / 5;
+}
+
+.Noticias4 {
+    grid-area: 5 / 3 / 7 / 5;
+}
+
+.Noticias5 {
+    grid-area: 3 / 5 / 7 / 7;
+}
+
+
+.tituloTarjeta {
+    padding-top: 15px;
+}
+
+
+.SubtituloJuegos {
+    font-family: 'Bebas Neue', sans-serif;
+    background-color: #1F1F1F;
+    color: #bfab93;
+    margin-top: 30px;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    background-color: #1F1F1F;
+    padding: 20px;
+}
+
+.div1 {
+    grid-area: 1 / 1 / 2 / 3;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 455px;
+    background-color: #1F1F1F;
+}
+
+.link {
+    text-decoration: none;
+    color: #bfab93;
+}
+
+.card .face {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    backface-visibility: hidden;
+    border-radius: 1px;
+    overflow: hidden;
+    transition: .5s;
+}
+
+.card .front {
+    transform: perspective(600px) rotateY(0deg);
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card .front img {
+    position: absolute;
+    width: 300px;
+    height: 455px;
+
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.imgTarjeta {
+    padding: 0.5px;
+}
+
+.card .front h3 {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    color: #ffe5c2;
+    background: rgba(0, 0, 0, .4);
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1.5px;
+}
+
+.card .back {
+    transform: perspective(600px) rotateY(180deg);
+    background: #221049;
+    padding: 15px;
+    color: #bfab93;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    box-shadow: 0 5px 10px #000;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card .back .link {
+    border-top: solid 1px #bfab93;
+    height: 50px;
+    line-height: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+.card .back .link a {
+    text-decoration: none;
+    color: #bfab93;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card .back h3 {
+    font-size: 30px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+
+.card .back p {
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+.card:hover .front {
+    transform: perspective(600px) rotateY(180deg);
+}
+
+.card:hover .back {
+    transform: perspective(600px) rotateY(360deg);
+}
+
+
+.div2 {
+    grid-area: 2 / 1 / 3 / 2;
+}
+
+.div3 {
+    grid-area: 2 / 2 / 3 / 3;
+}
+
+footer {
+    background-color: #1e1e1e;
+    padding-top: 10px;
+    padding: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.listaFooter {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+}
+
+.itemFooter {
+    margin-left: 20px;
+}
+
+.itemFooter {
+    color: antiquewhite;
+    text-decoration: none;
+    font-family: 'Bebas Neue', sans-serif;
+}
