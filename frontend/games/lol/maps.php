@@ -92,7 +92,7 @@ session_start();
 
 
                     <div class="image-item">
-                        <img src="./img/la grieta del invocador.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/la grieta del invocador.png" alt="Imagen 1">
                     </div>
                     
                 </div>
@@ -119,7 +119,7 @@ session_start();
                     </div> 
                         
                     <div class="image-item2">
-                        <img src="./img/aram.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/aram.png" alt="Imagen 1">
                     </div>
                 </div>
             </div>

@@ -72,7 +72,7 @@ session_start();
 
 
                     <div class="image-item">
-                        <img src="./img/Cromas.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/Cromas.png" alt="Imagen 1">
                     </div>
                     
                 </div>
@@ -103,7 +103,7 @@ session_start();
                     </div> 
                         
                     <div class="image-item2">
-                        <img src="./img/285-2857421_todas-las-skins-de-yasuo.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/285-2857421_todas-las-skins-de-yasuo.png" alt="Imagen 1">
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@ session_start();
                     </div> 
                     
                     <div class="image-item3">
-                        <img src="./img/wards.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/wards.png" alt="Imagen 1">
                     </div>
                 </div>
 

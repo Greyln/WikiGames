@@ -117,7 +117,7 @@ session_start();
             <div class="div3">
                 <div class="tarjeta">
                     <div class="interiortarjeta1">
-                        <img src="./img/ognoticia2.png" alt="img2" class="imgTarjeta">
+                        <img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
                     </div>
                     <div class="interiortarjeta2">
                         <h3 class="ptarjeta">Nueva temporada</h3>
@@ -171,7 +171,7 @@ session_start();
             <div class="div5">
                 <div class="tarjeta">
                     <div class="interiortarjeta1">
-                        <img src="./img/ognoticia2.png" alt="img2" class="imgTarjeta">
+                        <img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
                     </div>
                     <div class="interiortarjeta2">
                         <h3 class="ptarjeta">Nueva temporada</h3>
@@ -202,7 +202,7 @@ session_start();
             <div class="div1">
                 <div class="tarjeta">
                     <div class="interiortarjeta1">
-                        <img src="./img/ognoticia2.png" alt="img2" class="imgTarjeta">
+                        <img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
                     </div>
                     <div class="interiortarjeta2">
                         <h3 class="ptarjeta">Nueva temporada</h3>
@@ -229,7 +229,7 @@ session_start();
             <div class="div2">
                 <div class="tarjeta">
                     <div class="interiortarjeta1">
-                        <img src="./img/ognoticia2.png" alt="img2" class="imgTarjeta">
+                        <img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
                     </div>
                     <div class="interiortarjeta2">
                         <h3 class="ptarjeta">Nueva temporada</h3>
@@ -257,7 +257,7 @@ session_start();
             <div class="div3">
                 <div class="tarjeta">
                     <div class="interiortarjeta1">
-                        <img src="./img/ognoticia2.png" alt="img2" class="imgTarjeta">
+                        <img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
                     </div>
                     <div class="interiortarjeta2">
                         <h3 class="ptarjeta">Nueva temporada</h3>
@@ -286,7 +286,7 @@ session_start();
             <div class="div4">
                 <div class="tarjeta">
                     <div class="interiortarjeta1">
-                        <img src="./img/ognoticia2.png" alt="img2" class="imgTarjeta">
+                        <img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
                     </div>
                     <div class="interiortarjeta2">
                         <h3 class="ptarjeta">Nueva temporada</h3>
@@ -315,7 +315,7 @@ session_start();
             <div class="div5">
                 <div class="tarjeta">
                     <div class="interiortarjeta1">
-                        <img src="./img/ognoticia2.png" alt="img2" class="imgTarjeta">
+                        <img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
                     </div>
                     <div class="interiortarjeta2">
                         <h3 class="ptarjeta">Nueva temporada</h3>

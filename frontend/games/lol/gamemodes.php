@@ -74,7 +74,7 @@ session_start();
 
 
                     <div class="image-item">
-                        <img src="./img/La grieta.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/La grieta.png" alt="Imagen 1">
                     </div>
                     
                 </div>
@@ -100,7 +100,7 @@ session_start();
                     </div> 
                         
                     <div class="image-item2">
-                        <img src="./img/mapa-ARAM_1600949900_1023559_1024x576.jpg" alt="Imagen 1">
+                        <img src="./img/Games/lol/mapa-ARAM_1600949900_1023559_1024x576.jpg" alt="Imagen 1">
                     </div>
                 </div>
             </div>
@@ -130,7 +130,7 @@ session_start();
                     </div> 
                     
                     <div class="image-item3">
-                        <img src="./img/tft-lol.jpg" alt="Imagen 1">
+                        <img src="./img/Games/lol/tft-lol.jpg" alt="Imagen 1">
                     </div>
                 </div>
 
@@ -158,7 +158,7 @@ session_start();
                     </div> 
                     
                     <div class="image-item4">
-                        <img src="./img/Frenesí en el nexo.jpg" alt="Imagen 1">
+                        <img src="./img/Games/lol/Frenesí en el nexo.jpg" alt="Imagen 1">
                     </div>
                 </div>
 

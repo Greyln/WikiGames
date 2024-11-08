@@ -52,7 +52,7 @@ session_start();
 				<div class="product-item" category="Shoter Tactico">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/jettportada.png" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/Games/jett_portada.png" alt="Valorant portada">
 							<h3>Valorant</h3>
 						</div>
 						<div class="face back">
@@ -71,7 +71,7 @@ session_start();
 				<div class="product-item" category="Shoter Tactico">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Portada-rainbow.png" alt="Rainbow portada">
+							<img class="imgTarjeta" src="./img/Games/rainbow_portada.png" alt="Rainbow portada">
 							<h3>Rainbow</h3>
 						</div>
 						<div class="face back">
@@ -110,7 +110,7 @@ session_start();
 				<div class="product-item" category="Moba">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/lol.png" alt="Lol portada">
+							<img class="imgTarjeta" src="./img/Games/lol_portada.png" alt="Lol portada">
 							<h3>League of Legends</h3>
 						</div>
 						<div class="face back">
@@ -129,7 +129,7 @@ session_start();
 				<div class="product-item" category="Deportes">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="#">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="#">
 							<h3>Proximamente</h3>
 						</div>
 						<div class="face back">
@@ -144,7 +144,7 @@ session_start();
 				<div class="product-item" category="ordenadores">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="Valorant portada">
 							<h3>En construccion</h3>
 						</div>
 						<div class="face back">
@@ -161,7 +161,7 @@ session_start();
 				<div class="product-item" category="monitores">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="Valorant portada">
 							<h3>en construccion</h3>
 						</div>
 						<div class="face back">
@@ -178,7 +178,7 @@ session_start();
 				<div class="product-item" category="audifonos">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="Valorant portada">
 							<h3>en construccion</h3>
 						</div>
 						<div class="face back">
@@ -195,7 +195,7 @@ session_start();
 				<div class="product-item" category="audifonos">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="Valorant portada">
 							<h3>en construccion</h3>
 						</div>
 						<div class="face back">
@@ -212,7 +212,7 @@ session_start();
 				<div class="product-item" category="audifonos">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="Valorant portada">
 							<h3>en construccion</h3>
 						</div>
 						<div class="face back">
@@ -229,7 +229,7 @@ session_start();
 				<div class="product-item" category="audifonos">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="Valorant portada">
 							<h3>en construccion</h3>
 						</div>
 						<div class="face back">
@@ -246,7 +246,7 @@ session_start();
 				<div class="product-item" category="audifonos">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Enconstrccion.jpg" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/WIP.jpg" alt="Valorant portada">
 							<h3>en construccion</h3>
 						</div>
 						<div class="face back">
