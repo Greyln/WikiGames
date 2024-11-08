@@ -1,3 +1,9 @@
+<?php
+// Iniciar la sesión
+session_start();
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,10 +14,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./style/pag4.css">
-    <link rel="stylesheet" href="./style/footer.css">
+    <link rel="stylesheet" href="/frontend/style/pag4.css">
+    <link rel="stylesheet" href="/frontend/style/footer.css">
     <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <title>WikiGames</title>
+    <base href="/frontend/index.html">
     <link rel="shortcut icon" href="./img/favicon.ico">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
@@ -25,11 +32,11 @@
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./index.html " class="linkNavegador">Inicio</a></li>
-            <li class="develop"><a href="./catalogo.html " class="linkNavegador">Catalogo</a>
+            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
+            <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
             </li>
-            <li><a href="./nosotros.html" class="linkNavegador">Nosotros</a></li>
-            <li><a href="./login.html" class="linkNavegador">Iniciar sesión</a></li>
+            <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
+            <li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>
         </ul>
     </nav>
     <div class="main">
@@ -86,7 +93,7 @@
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=uR4ew3-vqTY"  target="_blank">
-                            <img src="./img/lore.png" alt="Imagen 7">
+                            <img src="./img/lore_alt.png" alt="Imagen 7">
                             <p class="image-caption">Mucho lore</p>
                         </a>
                     </div>

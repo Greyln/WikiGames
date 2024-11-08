@@ -14,11 +14,11 @@ session_start();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./style/pag2-15.css">
-    <link rel="stylesheet" href="./style/footer.css">
+    <link rel="stylesheet" href="/frontend/style/pag2-15.css">
+    <link rel="stylesheet" href="/frontend/style/footer.css">
     <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <title>WikiGames</title>
-    <link rel="shortcut icon" href="./img/favicon.ico">
+    <base href="/frontend/index.html">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     </style>

@@ -42,7 +42,7 @@ $result = $stmt->get_result();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WikiGames</title>
-    <link rel="stylesheet" href="./style/Usuario.css">
+    <link rel="stylesheet" href="/frontend/style/Usuario.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     </style>

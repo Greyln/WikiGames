@@ -11,8 +11,8 @@ session_start();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WikiGames</title>
-    <link rel="stylesheet" href="./style/footer.css">
-    <link rel="stylesheet" href="./style/nav.css">
+    <link rel="stylesheet" href="/frontend/style/footer.css">
+    <link rel="stylesheet" href="/frontend/style/nav.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     </style>
@@ -97,7 +97,7 @@ session_start();
                         Fortnite se diferencia del resto de battle royale ya que se puede construir y esto es una
                         mecánica innovadora en el género</p>
                     <div class="link">
-                        <a href="./games/fortnite/fortnite.html">Mas</a>
+                        <a href="./games/fortnite.html">Mas</a>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@ session_start();
                         habilidades totalmente distinto al anterior y con un estilo de juego único. Cada uno con
                         funciones, línea y objetivos dentro del juego distintas al resto.</p>
                     <div class="link">
-                        <a href="./games/lol/lol.html">Mas</a>
+                        <a href="./games/lol.html">Mas</a>
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@ session_start();
                         conseguir la
                         victoria</p>
                     <div class="link">
-                        <a href="./games/rainbow_six/rainbow_six.html">Mas</a>
+                        <a href="./games/rainbow_six.html">Mas</a>
                     </div>
                 </div>
             </div>
@@ -147,7 +147,7 @@ session_start();
                         distintas habilidades las cuales definen el rol del personaje dentro del juego. Entre los
                         distintos roles existe el iniciador, duelista, humo, controlador y centinela.</p>
                     <div class="link">
-                        <a href="./games/valorant/valorant.html">Mas</a>
+                        <a href="./games/valorant.html">Mas</a>
                     </div>
                 </div>
             </div>

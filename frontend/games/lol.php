@@ -14,14 +14,15 @@ session_start();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./style/pag4.css">
-    <link rel="stylesheet" href="./style/footer.css">
-    <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/frontend/style/pag2.css">
+    <link rel="stylesheet" href="/frontend/style/footer.css">
     <title>WikiGames</title>
-    <link rel="shortcut icon" href="./img/favicon.ico">
+    <base href="/frontend/index.html">
+    <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     </style>
+    <link rel="shortcut icon" href="./img/favicon.ico">
 </head>
 
 <body class="body">
@@ -38,18 +39,19 @@ session_start();
             <li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>
         </ul>
     </nav>
+
     <div class="main">
         <main class=pagg>
             <div class="portada">
-                <h1>Rainbow six</h1>
+                <h1>League of Legends</h1>
             </div>
 
             <div class="contenedorGrilla2">
                 <div class="div10">
-                    <p class="parrafo10">Introducion:</p>
-                    <p class="parrafo10">Rainbow six es un shooter de primera persona táctico donde podes elegir entre todos los personajes
-                         el que mas se acomode a tu estilo de juego, son partidas de equipos de cinco atacantes contra cinco defensores.
-                        Los defensores deben defender un objetivo y los atacantes deben destruirlo para conseguir la victoria
+                    <p class="parrafoxd"> Introducion: </p>
+                    <p class="parrafo10">Es un videojuego multijugador de arena de batalla en línea o también conocido como moba desarrollado y publicado por Riot Games. 
+                        Con +170 personajes para usar cada uno con un kit de habilidades totalmente distinto al anterior y con un estilo de juego único. 
+                        Cada uno con funciones, línea y objetivos dentro del juego distintas al resto. 
                     </p>
                 </div>
             </div>
@@ -61,54 +63,91 @@ session_start();
 
                 <div class="image-grid">
                     <div class="image-item">
-                        <a href="https://www.youtube.com/watch?v=4YHfaX2BIYM&list=PLFm6NSJeDkOcnxhInSuE7bAatIEE_1fwX&pp=gAQBiAQBhttps://www.youtube.com/watch?v=4YHfaX2BIYM&list=PLFm6NSJeDkOcnxhInSuE7bAatIEE_1fwX&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/agentesr.jpg" alt="Imagen 1">
-                            <p class="image-caption">Agentes</p>
+                        <a href="#">
+                            <img src="./img/Games/lol/Campeones.png" alt="Imagen 1">
+                            <p class="image-caption">Campeones</p>
                         </a>
                     </div>
                     <div class="image-item">
-                        <a href="https://www.youtube.com/watch?v=4HbqydbqCQI&list=PLFm6NSJeDkOeeJ1pNjHNBgSBnAZLZUSkg&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/mejora aim.jpg" alt="Imagen 2">
-                            <p class="image-caption">Mejora tu ain</p>
+                        <a href="#">
+                            <img src="./img/Games/lol/runas.jpg" alt="Imagen 2">
+                            <p class="image-caption">Runas</p>
                         </a>
                     </div>
                     <div class="image-item">
-                        <a href="https://www.youtube.com/watch?v=i8SPbbk-AtI&list=PLFm6NSJeDkOfgTWNcHBx9ZOksYtTkGofZ&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/modor.png" alt="Imagen 3">
+                        <a href="./games/lol/gamemodes.php">
+                            <img src="./img/Games/lol/mdo.png" alt="Imagen 3">
                             <p class="image-caption">Modos de juegos</p>
                         </a>
                     </div>
                     <div class="image-item">
-                        <a href="https://www.youtube.com/watch?v=Dko4xgD7RGY&list=PLFm6NSJeDkOdzRMRF-USX7TEcqUImi98l&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/mapass.jpg" alt="Imagen 5">
+                        <a href="./games/lol/lol_skins.php">
+                            <img src="./img/Games/lol/skins1.jpg" alt="Imagen 4">
+                            <p class="image-caption">Skins</p>
+                        </a>
+                    </div>
+                    <div class="image-item">
+                        <a href="./games/lol/maps.php">
+                            <img src="./img/Games/lol/mapas1.jpg" alt="Imagen 5">
                             <p class="image-caption">Mapas</p>
                         </a>
                     </div>
                     <div class="image-item">
-                        <a href="https://www.youtube.com/watch?v=oxoBppBUJmU&list=PLFm6NSJeDkOcNaNKmE4KbeYGgBrB1_6WH">
-                            <img src="./img/Games/rainbow_six/conseses.jpg" alt="Imagen 6">
+                        <a href="#">
+                            <img src="./img/Games/lol/consejos2.jpg" alt="Imagen 6">
                             <p class="image-caption">Consejos</p>
                         </a>
                     </div>
-                    <div class="image-item">
-                        <a href="https://www.youtube.com/watch?v=uR4ew3-vqTY"  target="_blank">
-                            <img src="./img/lore.png" alt="Imagen 7">
-                            <p class="image-caption">Mucho lore</p>
-                        </a>
+                </div>
+            </div>
+
+            <div class="portal2">
+
+                <div class="titulo2">
+                    <h2>Mejores campeones para cada linea</h2>
+                </div>
+
+                <div class="image-grid2">
+                    <div class="image-item2">
+                        <p class="image-caption">TOP</p>
+                        <img src="./img/Games/lol/RiotX_ChampionList_jax.jpg" alt="Imagen 1">
+                        <p class="image-caption">Jax</p>
+                    </div>
+                    <div class="image-item2">
+                        <p class="image-caption">Jungla</p>
+                        <img src="./img/Games/lol/RiotX_ChampionList_nidalee.jpg" alt="Imagen 2">
+                        <p class="image-caption">Nidalee</p>
+                    </div>
+                    <div class="image-item2">
+                        <p class="image-caption">MID</p>
+                        <img src="./img/Games/lol/RiotX_ChampionList_annie.jpg" alt="Imagen 3">
+                        <p class="image-caption">Annie</p>
+                    </div>
+                    <div class="image-item2">
+                        <p class="image-caption">ADC</p>
+                        <img src="./img/Games/lol/Aphelios_0.jpg" alt="Imagen 4">
+                        <p class="image-caption">Aphelios</p>
+                    </div>
+                    <div class="image-item2">
+                        <p class="image-caption">SOPORTE</p>
+                        <img src="./img/Games/lol/Milio.jpg" alt="Imagen 5">
+                        <p class="image-caption">Milio</p>
                     </div>
                 </div>
             </div>
 
             <div class="portal3">
                 <div class="titulo2">
-                    <h2>Cambios recientes</h2>
+                    <h2>Mapas</h2>
                 </div>
                 <div class="image-grid3">
                     <div class="image-item2">
-                        <a href="https://www.youtube.com/watch?v=wpKSullQGhQ" target="_blank">
-                            <img src="./img/Games/rainbow_six/Jefemaestro.jpg" alt="Imagen 1">
-                            <p class="image-caption">El Jefe Maestro ya ha llegado a Rainbow six</p>
-                        </a>
+                        <img src="./img/Games/lol/la grieta del invocador.png" alt="Imagen 1">
+                        <p class="image-caption">Grieta del Invocador</p>
+                    </div>
+                    <div class="image-item2">
+                        <img src="./img/Games/lol/aram.png" alt="Imagen 2">
+                        <p class="image-caption">Aram</p>
                     </div>
                 </div>
             </div>

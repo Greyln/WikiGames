@@ -10,17 +10,17 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style/footer.css">
-    <link rel="stylesheet" href="./style/Noticias.css">
-    <link rel="stylesheet" href="./style/tarjeta2.css">
-    <link rel="stylesheet" href="./style/tarjeta3.css">
-    <link rel="stylesheet" href="./style/tarjeta4.css">
-    <link rel="stylesheet" href="./style/tarjeta5.css">
-    <link rel="stylesheet" href="./style/tarjeta6.css">
-    <link rel="stylesheet" href="./style/tarjeta7.css">
-    <link rel="stylesheet" href="./style/tarjeta8.css">
-    <link rel="stylesheet" href="./style/tarjeta9.css">
-    <link rel="stylesheet" href="./style/tarjeta10.css">
+    <link rel="stylesheet" href="/frontend/style/footer.css">
+    <link rel="stylesheet" href="/frontend/style/Noticias.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta2.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta3.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta4.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta5.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta6.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta7.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta8.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta9.css">
+    <link rel="stylesheet" href="/frontend/style/tarjeta10.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     </style>

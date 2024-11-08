@@ -12,9 +12,9 @@ session_start();
 	<meta name="viewport"
 		content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<title>WikiGames</title>
-	<link rel="stylesheet" href="./style/catalogo.css">
-	<link rel="stylesheet" href="./style/footer.css">
-	<link rel="stylesheet" href="./style/Catologo2.css">
+	<link rel="stylesheet" href="/frontend/style/catalogo.css">
+	<link rel="stylesheet" href="/frontend/style/footer.css">
+	<link rel="stylesheet" href="/frontend/style/Catologo2.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
 	<style>
 		@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
@@ -63,7 +63,7 @@ session_start();
 								los
 								distintos roles existe el iniciador, duelista, humo, controlador y centinela.</p>
 							<div class="link">
-								<a href="./games/valorant/valorant.php">Mas</a>
+								<a href="./games/valorant.php">Mas</a>
 							</div>
 						</div>
 					</div>
@@ -84,7 +84,7 @@ session_start();
 								destruirlo para conseguir la
 								victoria</p>
 							<div class="link">
-								<a href="./games/rainbow_six/rainbow_six.php">Mas</a>
+								<a href="./games/rainbow_six.php">Mas</a>
 							</div>
 						</div>
 					</div>
@@ -102,7 +102,7 @@ session_start();
 								Fortnite se diferencia del resto de battle royale ya que se puede construir y esto es
 								una mecánica innovadora en el género</p>
 							<div class="link">
-								<a href="./games/fortnite/fortnite.php">Mas</a>
+								<a href="./games/fortnite.php">Mas</a>
 							</div>
 						</div>
 					</div>
@@ -121,7 +121,7 @@ session_start();
 								habilidades totalmente distinto al anterior y con un estilo de juego único. Cada uno con
 								funciones, línea y objetivos dentro del juego distintas al resto.</p>
 							<div class="link">
-								<a href="./games/lol/lol.php">Mas</a>
+								<a href="./games/lol.php">Mas</a>
 							</div>
 						</div>
 					</div>

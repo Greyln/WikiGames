@@ -42,7 +42,7 @@ $result = $stmt->get_result();
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./style/footer.css">
+  <link rel="stylesheet" href="/frontend/style/footer.css">
   <script src="https://kit.fontawesome.com/887a835504.js" crossorigin="anonymous"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
@@ -57,7 +57,7 @@ $result = $stmt->get_result();
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
   </style>
   <link rel="shortcut icon" href="./img/favicon.ico">
-  <link rel="stylesheet" href="./style/style.css">
+  <link rel="stylesheet" href="/frontend/style/style.css">
   <title>WikiGames</title>
 </head>
 

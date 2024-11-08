@@ -1,9 +1,3 @@
-<?php
-// Iniciar la sesión
-session_start();
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,11 +8,11 @@ session_start();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./style/Valo.css">
-    <link rel="stylesheet" href="./style/footer.css">
+    <link rel="stylesheet" href="/frontend/style/Valo.css">
+    <link rel="stylesheet" href="/frontend/style/footer.css">
     <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <title>WikiGames</title>
-    <link rel="shortcut icon" href="./img/favicon.ico">
+    <base href="/frontend/index.html">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     </style>
@@ -32,11 +26,11 @@ session_start();
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
-            <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
+            <li><a href="./index.html " class="linkNavegador">Inicio</a></li>
+            <li class="develop"><a href="./catalogo.html " class="linkNavegador">Catalogo</a>
             </li>
-            <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
-            <li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>
+            <li><a href="./nosotros.html" class="linkNavegador">Nosotros</a></li>
+            <li><a href="./registro.html" class="linkNavegador">Iniciar sesión</a></li>
         </ul>
     </nav>
 
@@ -136,7 +130,7 @@ session_start();
                         <button class="btnpj">Ataque</button><button class="btnpj">Defensa</button>
                     </div>
                     <div class="image-item2">
-                        <img src="./img/96px-Fade_Artwork.png" alt="Imagen 7">
+                        <img src="./img/Games/valorant/96px-Fade_Artwork.png" alt="Imagen 7">
                         <p class="image-caption">Fade</p>
                         <button class="btnpj">Ataque</button><button class="btnpj">Defensa</button>
                     </div>
