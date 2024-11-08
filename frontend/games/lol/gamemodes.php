@@ -19,7 +19,6 @@ session_start();
     <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <title>WikiGames</title>
     <base href="/frontend/index.html">
-    <base href="/frontend/index.html">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     </style>
