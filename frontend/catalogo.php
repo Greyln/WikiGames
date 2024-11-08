@@ -21,7 +21,7 @@ session_start();
 	</style>
 	<script src="https://kit.fontawesome.com/887a835504.js" crossorigin="anonymous"></script>
 	<script src="js/jquery-3.2.1.js"></script>
-	<script src="js/script.js"></script>
+	<script src="js/catalog.js"></script>
 	<link rel="shortcut icon" href="./img/favicon.ico">
 </head>
 
