@@ -92,7 +92,7 @@ session_start();
 				<div class="product-item" category="battle royale">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/fortniteog2.png" alt="fortnite portada">
+							<img class="imgTarjeta" src="./img/Games/fortnite_og2.png" alt="fortnite portada">
 							<h3>Fortnite</h3>
 						</div>
 						<div class="face back">
@@ -102,7 +102,7 @@ session_start();
 								Fortnite se diferencia del resto de battle royale ya que se puede construir y esto es
 								una mecánica innovadora en el género</p>
 							<div class="link">
-								<a href="./games/fornite/fornite.php">Mas</a>
+								<a href="./games/fortnite/fortnite.php">Mas</a>
 							</div>
 						</div>
 					</div>

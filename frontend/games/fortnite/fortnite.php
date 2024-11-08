@@ -1,3 +1,9 @@
+<?php
+// Iniciar la sesión
+session_start();
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -26,18 +32,18 @@
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./index.html " class="linkNavegador">Inicio</a></li>
+            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.html " class="linkNavegador">Catalogo</a>
             </li>
-            <li><a href="./nosotros.html" class="linkNavegador">Nosotros</a></li>
-            <li><a href="./login.html" class="linkNavegador">Iniciar Sesión</a></li>
+            <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
+            <li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>
         </ul>
     </nav>
 
     <div class="main">
         <main class=pagg>
             <div class="portada">
-                <h1>Fornite</h1>
+                <h1>Fortnite</h1>
             </div>
 
             <div class="contenedorGrilla2">
@@ -77,13 +83,13 @@
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/Eventos de fornite.jpg" alt="Imagen 4">
+                            <img src="./img/Eventos de fortnite.jpg" alt="Imagen 4">
                             <p class="image-caption">Eventos</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/pvpfornite.png" alt="Imagen 5">
+                            <img src="./img/pvpfortnite.png" alt="Imagen 5">
                             <p class="image-caption">Como mejorar en el AIM</p>
                         </a>
                     </div>
@@ -111,7 +117,7 @@
                 <div class="image-grid2">
                         <div class="image-item3">
                             <a href="https://youtu.be/DYCHnvJXTaQ?si=w5T0NTUhWmz6kUSW" target="_blank">
-                                <img src="./img/Lorefornite.jpg" alt="Imagen 1">
+                                <img src="./img/Lorefortnite.jpg" alt="Imagen 1">
                                 <p class="image-caption">LA HISTORIA OCULTA de FORTNITE</p>
                             </a>
                         </div>
