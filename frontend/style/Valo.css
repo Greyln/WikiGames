@@ -261,7 +261,7 @@ footer {
 
 .imagen-fondo{
     min-height: 100vh;
-    background:  (rgba(5,7,12,0.75),rgba(5,7,12,0.75)),url(./img/fondovalorant2)
+    background:  (rgba(5,7,12,0.75), rgba(5,7,12,0.75)), url("/frontend/img/Games/valorant/fondo.jpg")
     no-reapeat center center fixed;
     background-size: cover;
 }
