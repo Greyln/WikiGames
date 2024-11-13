@@ -1,0 +1,7 @@
+{
+    "php.validate.executablePath": "C:/Program Files/PHP/php.exe",
+    "fiveServer.php.executable": "C:/Program Files/PHP/php.exe",
+    "php.validate.enable": false,
+    "phpserver.phpConfigPath": "",
+    "phpserver.phpPath": "C:/Program Files/PHP/php.exe"
+}
