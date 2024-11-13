@@ -30,7 +30,7 @@ session_start();
 <body class="body">
     <h1 class="titulo">WikiGames</h1>
     <nav>
-        <p class="logo-Wiki">WikiGames</p>
+ bodylogo-Wiki">WikiGames</p>
         <ul class="cont-ul">
             <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>

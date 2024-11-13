@@ -30,7 +30,7 @@ session_start();
     <nav>
         <p class="logo-Wiki">WikiGames</p>
         <ul class="cont-ul">
-            <input type="checkbox" id="estrelaCheckbox">
+ body type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
             <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>

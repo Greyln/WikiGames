@@ -61,7 +61,7 @@ $result = $stmt->get_result();
   <title>WikiGames</title>
 </head>
 
-<body class="body">
+<body>
   <h1 class="titulo">WikiGames</h1>
   <nav>
         <p class="logo-Wiki">WikiGames</p>
