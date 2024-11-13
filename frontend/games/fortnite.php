@@ -26,8 +26,7 @@ session_start();
 </head>
 
 <body>
-	<h1 class="titulo">WikiGames <img class="logowikigames" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
- body
+	<h1 class="titulo">WikiGames</h1>
 		<p class="logo-Wiki">WikiGames</p>
 		<ul class="cont-ul">
 			<input type="checkbox" id="estrelaCheckbox">
@@ -117,7 +116,7 @@ session_start();
 				<div class="image-grid2">
 						<div class="image-item3">
 							<a href="https://youtu.be/DYCHnvJXTaQ?si=w5T0NTUhWmz6kUSW" target="_blank">
-								<img src="./img/Lorefortnite.jpg" alt="Imagen 1">
+								<img src="./img/Games/fortnite/lore.jpg" alt="Imagen 1">
 								<p class="image-caption">LA HISTORIA OCULTA de FORTNITE</p>
 							</a>
 						</div>

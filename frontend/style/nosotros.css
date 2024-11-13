@@ -17,7 +17,10 @@ body {
     align-items: center;
     font-family: 'Bebas Neue', sans-serif;
 }
-
+.logowikigames{
+    width: 80px;
+    height: 80px
+}
 .titulo {
     background-color: #7345d6;
     color: #bfab93;
