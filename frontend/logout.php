@@ -6,6 +6,6 @@ session_start();
 session_destroy();
 
 // Redirigir a la página de inicio de sesión
-header('Location: http://localhost/final/index.html');
+header('Location: /frontend/index.html');
 exit();
 ?>

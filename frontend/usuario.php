@@ -5,7 +5,7 @@ session_start();
 // Verificar si el nombre de usuario está presente en la sesión
 if (!isset($_SESSION['nombreUsuario'])) {
     // Si el nombre de usuario no está presente, redirigir a la página de inicio de sesión
-    header('Location: http://localhost/final/login.html');
+    header('Location: /frontend/login.html');
     exit();
 }
 
