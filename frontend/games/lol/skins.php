@@ -32,7 +32,7 @@ session_start();
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
@@ -55,16 +55,16 @@ session_start();
 
                     <div class="div10">
                         <p class="image-caption">
-                            Los aspectos cromáticos son versiones recoloreadas de los aspectos clásicos o adquiribles de un campeón en el juego. 
+                            Los aspectos cromáticos son versiones recoloreadas de los aspectos clásicos o adquiribles de un campeón en el juego.
                             Pueden comprarse individualmente por 290 RP o como parte de un paquete Chroma Pack a un precio con descuento.
                         </p>
 
                         <p class="image-caption">
                             Algunos cromas también pueden estar disponibles a la venta por 2000 BE o 195 RP cada uno durante eventos como Essence Emporium.
                         </p>
-                        
+
                         <p class="image-caption">
-                            Algunos cromas son más exclusivos y especiales, formando parte de eventos específicos como Night Blossom y Emberclaw. 
+                            Algunos cromas son más exclusivos y especiales, formando parte de eventos específicos como Night Blossom y Emberclaw.
                             Estos cromas solo pueden desbloquearse a través de Hextech Crafting y tienen nombres distintivos.
                         </p>
 
@@ -72,9 +72,9 @@ session_start();
 
 
                     <div class="image-item">
-                        <img src="./img/Games/lol/Cromas.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/skins_chromas.png" alt="Imagen 1">
                     </div>
-                    
+
                 </div>
             </div>
 
@@ -86,12 +86,12 @@ session_start();
 
                 <div class="image-grid2">
                     <div class="div10">
-                        <p class="image-caption2"> 
-                            En League of Legends, un aspecto de campeón se refiere a una variante de apariencia, que incluye un diseño alternativo y/o una combinación de colores diferente, disponible para cualquier campeón del juego. 
+                        <p class="image-caption2">
+                            En League of Legends, un aspecto de campeón se refiere a una variante de apariencia, que incluye un diseño alternativo y/o una combinación de colores diferente, disponible para cualquier campeón del juego.
                         </p>
 
                         <p class="image-caption2">
-                            La mayoría de los aspectos en League of Legends están disponibles para compra en la tienda Riot del cliente del juego utilizando RP. 
+                            La mayoría de los aspectos en League of Legends están disponibles para compra en la tienda Riot del cliente del juego utilizando RP.
                             Sin embargo, algunos son de tiempo limitado, y unas pocas opciones no se pueden obtener después de su lanzamiento inicial.
                         </p>
 
@@ -99,11 +99,9 @@ session_start();
                             Cada aspecto en League of Legends incluye un modelo y arte de presentación únicos.
                             Algunos aspectos ofrecen adicionalmente efectos de partículas, voces en off y efectos de sonido distintivos para los campeones, lo que puede afectar el precio del aspecto.
                         </p>
-
-                    </div> 
-                        
+                    </div>
                     <div class="image-item2">
-                        <img src="./img/Games/lol/285-2857421_todas-las-skins-de-yasuo.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/skins_yasuo.png" alt="Imagen 1">
                     </div>
                 </div>
             </div>
@@ -117,25 +115,25 @@ session_start();
                 <div class="image-grid3">
 
                     <div class="div10">
-                        <p class="image-caption2"> 
-                            Los diseños de los centinelas son cosméticos que alteran la apariencia de varios íconos relacionados con las ward en League of Legends. 
+                        <p class="image-caption2">
+                            Los diseños de los centinelas son cosméticos que alteran la apariencia de varios íconos relacionados con las ward en League of Legends.
                             Esto incluye íconos de Stealth Ward, Stealth Wards, ícono de Totem Ward, íconos de Control Ward, íconos de Control, íconos de Farsight Ward y íconos de Zombie Wards colocados por el invocador.
                         </p>
 
                         <p class="image-caption2">
-                            Los aspectos de centinela fueron lanzados inicialmente como alquileres de 7 días, acumulables hasta 52 veces, y todos los alquileres activos se ejecutaban simultáneamente. 
-                            Algunas skins de centinela originales también estaban disponibles para compra con IP (Puntos de Influencia). 
+                            Los aspectos de centinela fueron lanzados inicialmente como alquileres de 7 días, acumulables hasta 52 veces, y todos los alquileres activos se ejecutaban simultáneamente.
+                            Algunas skins de centinela originales también estaban disponibles para compra con IP (Puntos de Influencia).
                             Sin embargo, un año después de su lanzamiento, Riot decidió convertirlos en cosméticos permanentes.
                         </p>
 
-                    </div> 
-                    
+                    </div>
+
                     <div class="image-item3">
                         <img src="./img/Games/lol/wards.png" alt="Imagen 1">
                     </div>
                 </div>
 
-            </div>      
+            </div>
 
         </main>
 

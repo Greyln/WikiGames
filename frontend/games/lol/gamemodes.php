@@ -32,7 +32,7 @@ session_start();
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
@@ -60,23 +60,23 @@ session_start();
                         </p>
 
                         <p class="image-caption">
-                            Cada jugador selecciona un campeón con habilidades únicas y trabaja junto con su equipo para controlar territorios, eliminar objetivos y derrotar a los campeones enemigos. 
+                            Cada jugador selecciona un campeón con habilidades únicas y trabaja junto con su equipo para controlar territorios, eliminar objetivos y derrotar a los campeones enemigos.
                             La estrategia, la cooperación y la toma de decisiones son fundamentales para ganar partidas en este modo.
                         </p>
-                        
+
                         <p class="image-caption">
-                            El Modo Clasificatorio en la Grieta del Invocador de League of Legends permite a los jugadores competir en partidas clasificatorias en solitario o dúo. 
-                            Comienza en una división y liga específicas, con el objetivo de ascender mediante la acumulación de Puntos de Liga (LP).  
-                            Los jugadores participan en promociones para avanzar y pueden descender si pierden demasiados LP.      
+                            El Modo Clasificatorio en la Grieta del Invocador de League of Legends permite a los jugadores competir en partidas clasificatorias en solitario o dúo.
+                            Comienza en una división y liga específicas, con el objetivo de ascender mediante la acumulación de Puntos de Liga (LP).
+                            Los jugadores participan en promociones para avanzar y pueden descender si pierden demasiados LP.
                         </p>
 
                     </div>
 
 
                     <div class="image-item">
-                        <img src="./img/Games/lol/La grieta.png" alt="Imagen 1">
+                        <img src="./img/Games/lol/summoners_rift.png" alt="Imagen 1">
                     </div>
-                    
+
                 </div>
             </div>
 
@@ -88,19 +88,18 @@ session_start();
 
                 <div class="image-grid2">
                     <div class="div10">
-                        <p class="image-caption2"> 
-                            ARAM es un modo de juego en League of Legends donde los jugadores reciben campeones aleatorios y se enfrentan en un solo carril en la línea central. 
-                            El objetivo es destruir el Nexo enemigo. No hay vuelta a la base para curarse, y las partidas son rápidas y llenas de acción. 
+                        <p class="image-caption2">
+                            ARAM es un modo de juego en League of Legends donde los jugadores reciben campeones aleatorios y se enfrentan en un solo carril en la línea central.
+                            El objetivo es destruir el Nexo enemigo. No hay vuelta a la base para curarse, y las partidas son rápidas y llenas de acción.
                         </p>
 
                         <p class="image-caption2">
-                            La selección de campeones es aleatoria, lo que hace que la estrategia de composición de equipo sea menos relevante. 
-                            Es una experiencia más relajada y caótica en comparación con la Grieta del Invocador.
+                            La selección de campeones es aleatoria, lo que hace que la estrategia de composición de equipo sea menos relevante.
+                            Es una experiencia más relajada y caótica en comparación con map_summoners_rift.
                         </p>
-                    </div> 
-                        
+                    </div>
                     <div class="image-item2">
-                        <img src="./img/Games/lol/mapa-ARAM_1600949900_1023559_1024x576.jpg" alt="Imagen 1">
+                        <img src="./img/Games/lol/map_aram_2.jpg" alt="Mapa Aram">
                     </div>
                 </div>
             </div>
@@ -114,10 +113,10 @@ session_start();
                 <div class="image-grid3">
 
                     <div class="div10">
-                        <p class="image-caption2"> 
-                            Teamfight Tactics (TFT) es un juego autónomo basado en el género de Auto Battler dentro del universo de League of Legends. 
-                            Los jugadores seleccionan y mejoran campeones, construyen equipos estratégicos y los colocan en un tablero para enfrentarse automáticamente a otros jugadores. 
-                            
+                        <p class="image-caption2">
+                            Teamfight Tactics (TFT) es un juego autónomo basado en el género de Auto Battler dentro del universo de League of Legends.
+                            Los jugadores seleccionan y mejoran campeones, construyen equipos estratégicos y los colocan en un tablero para enfrentarse automáticamente a otros jugadores.
+
                         </p>
 
                         <p class="image-caption2">
@@ -125,16 +124,16 @@ session_start();
                         </p>
 
                         <p class="image-caption2">
-                            Ademas cuenta con un modo clasificatorio. 
+                            Ademas cuenta con un modo clasificatorio.
                         </p>
-                    </div> 
-                    
+                    </div>
+
                     <div class="image-item3">
-                        <img src="./img/Games/lol/tft-lol.jpg" alt="Imagen 1">
+                        <img src="./img/Games/lol/tft.jpg" alt="Imagen 1">
                     </div>
                 </div>
 
-            </div>   
+            </div>
 
             <div class="portal4">
 
@@ -146,23 +145,23 @@ session_start();
 
                     <div class="div10">
                         <p class="image-caption2">
-                            "Frenesí del Nexo" o "Nexus Blitz" es un modo de juego temporal en League of Legends lleno de emoción y sorpresas. 
+                            "Frenesí del Nexo" o "Nexus Blitz" es un modo de juego temporal en League of Legends lleno de emoción y sorpresas.
                         </p>
-                        <p class="image-caption2"> 
-                            Las partidas incluyen desafíos inesperados como derrotar a un Teemo gigante, enfrentamientos solitarios y momentos de acción rápida, como sesiones de URF en equipo. 
+                        <p class="image-caption2">
+                            Las partidas incluyen desafíos inesperados como derrotar a un Teemo gigante, enfrentamientos solitarios y momentos de acción rápida, como sesiones de URF en equipo.
                         </p>
 
                         <p class="image-caption2">
                             La imprevisibilidad y la diversidad de eventos hacen que cada partida sea emocionante y única.
                         </p>
-                    </div> 
-                    
+                    </div>
+
                     <div class="image-item4">
-                        <img src="./img/Games/lol/Frenesí en el nexo.jpg" alt="Imagen 1">
+                        <img src="./img/Games/lol/map_nexus_blitz.jpg" alt="Imagen 1">
                     </div>
                 </div>
 
-            </div>   
+            </div>
 
         </main>
 
