@@ -27,16 +27,23 @@ session_start();
 
 <body>
 	<h1 class="titulo">WikiGames <img class="logowikigames" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
-    <nav>
-        <p class="logo-Wiki">WikiGames</p>
-        <ul class="cont-ul">
-            <li><a href="./index.php" class="linkNavegador">Inicio</a></li>
-            <li class="develop"><a href="./catalogo.php" class="linkNavegador">Catálogo</a>
-            </li>
-            <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
-            <li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>
-        </ul>
-    </nav>
+	<nav>
+		<p class="logo-Wiki">WikiGames</p>
+		<ul class="cont-ul">
+			<li>
+				<a href="./index.php" class="linkNavegador">Inicio</a>
+			</li>
+			<li class="develop">
+				<a href="./catalogo.php" class="linkNavegador">Catálogo</a>
+			</li>
+			<li>
+				<a href="./nosotros.php" class="linkNavegador">Nosotros</a>
+			</li>
+			<li>
+				<a href="./usuario.php" class="linkNavegador">Mi cuenta</a>
+			</li>
+		</ul>
+	</nav>
 	<div class="wrap">
 		<h1>Galeria de juegos ⇩</h1>
 		<div class="store-wrapper">
