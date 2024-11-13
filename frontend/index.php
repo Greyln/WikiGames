@@ -32,7 +32,7 @@ session_start();
     <nav>
         <p class="logo-Wiki">WikiGames</p>
         <ul class="cont-ul">
-            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
@@ -87,7 +87,7 @@ session_start();
         <div class="div1">
             <div class="card">
                 <div class="face front">
-                    <img class="imgTarjeta" src="./img/Games/fortnite_og2.png" alt="portadaFortnite">
+                    <img class="imgTarjeta" src="./img/Games/fortnite/origins_2.png" alt="portadaFortnite">
                     <h3>Fortnite</h3>
                 </div>
                 <div class="face back">
@@ -104,7 +104,7 @@ session_start();
 
             <div class="card">
                 <div class="face front">
-                    <img class="imgTarjeta" src="./img/Games/lol_portada.png" alt="imagen de league of Legends">
+                    <img class="imgTarjeta" src="./img/Games/lol/portada.png" alt="imagen de league of Legends">
                     <h3>League of Legends</h3>
                 </div>
                 <div class="face back">
@@ -120,7 +120,7 @@ session_start();
             </div>
             <div class="card">
                 <div class="face front">
-                    <img class="imgTarjeta" src="./img/Games/rainbow_portada.png" alt="imagen de Rainbow">
+                    <img class="imgTarjeta" src="./img/Games/rainbow_six/portada.png" alt="imagen de Rainbow">
                     <h3>Rainbow Six</h3>
                 </div>
                 <div class="face back">
@@ -138,7 +138,7 @@ session_start();
 
             <div class="card">
                 <div class="face front">
-                    <img class="imgTarjeta" src="./img/Games/valorant_portada.png" alt="imagen de valorant">
+                    <img class="imgTarjeta" src="./img/Games/valorant/portada.png" alt="imagen de valorant">
                     <h3>Valorant</h3>
                 </div>
                 <div class="face back">
