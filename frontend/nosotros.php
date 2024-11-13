@@ -30,7 +30,7 @@ session_start();
 <body>
     <h1 class="titulo">WikiGames <img class="logowikigames" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
     <nav>
- bodylogo-Wiki">WikiGames</p>
+        <p class="logo-Wiki">WikiGames</p>
         <ul class="cont-ul">
             <li><a href="./index.php" class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php" class="linkNavegador">Catálogo</a>
