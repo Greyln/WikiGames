@@ -32,7 +32,7 @@ session_start();
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.html " class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
@@ -49,10 +49,10 @@ session_start();
             <div class="contenedorGrilla2">
                 <div class="div10">
                     <p class="parrafoxd"> Introducion: </p>
-                    <p class="parrafo10">Fortnite es un battle royale shooter con forma caricaturesca donde podes pelear con mas 
-                        de 100 personas en una isla donde el último que sobreviva es el ganador. 
-                        Fortnite se diferencia del resto de battle royale ya que se puede construir y esto es una mecánica innovadora 
-                        en el género. 
+                    <p class="parrafo10">Fortnite es un battle royale shooter con forma caricaturesca donde podes pelear con mas
+                        de 100 personas en una isla donde el último que sobreviva es el ganador.
+                        Fortnite se diferencia del resto de battle royale ya que se puede construir y esto es una mecánica innovadora
+                        en el género.
                     </p>
                 </div>
             </div>
@@ -63,45 +63,45 @@ session_start();
                 </div>
 
                 <div class="image-grid">
-                    <div class="image-item">
+                <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/skinsf.jpg" alt="Imagen 1">
+                            <img src="./img/Games/fortnite/skins.jpg" alt="Skins">
                             <p class="image-caption">Skins</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/Pase de batalla.png" alt="Imagen 2">
-                            <p class="image-caption">Pase de batálla</p>
+                            <img src="./img/Games/fortnite/battle_pass.png" alt="Pase de batalla">
+                            <p class="image-caption">Pase de batalla</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/Tienda Diaria.jpeg" alt="Imagen 3">
+                            <img src="./img/Games/fortnite/daily_shop.jpeg" alt="Tienda Diaria">
                             <p class="image-caption">Tienda Diaria</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/Eventos de fortnite.jpg" alt="Imagen 4">
+                            <img src="./img/Games/fortnite/events.jpg" alt="Eventos">
                             <p class="image-caption">Eventos</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/pvpfortnite.png" alt="Imagen 5">
+                            <img src="./img/Games/fortnite/mejorar_aim.png" alt="Mejorar el AIM">
                             <p class="image-caption">Como mejorar en el AIM</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/mejorar en la construccion.jpg" alt="Imagen 6">
+                            <img src="./img/Games/fortnite/mejorar_build.jpg" alt="Mejorar en la construcción">
                             <p class="image-caption">Como mejorar en la construcción</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=6lnDykc-nO0&list=PLFm6NSJeDkOcoDOk9OxiEXyGg5TGUzmOB">
-                            <img src="./img/Torneosf.jpg" alt="Imagen 7">
+                            <img src="./img/Games/fortnite/torneos.jpg" alt="Torneos">
                             <p class="image-caption">Torneos</p>
                         </a>
                     </div>
