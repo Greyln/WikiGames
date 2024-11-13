@@ -61,7 +61,7 @@ $result = $stmt->get_result();
     <nav>
         <p class="logo-Wiki">WikiGames</p>
         <ul class="cont-ul">
-            <li><a href="./inicio.php" class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php" class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php" class="linkNavegador">Catálogo</a></li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
             <li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>
@@ -90,7 +90,7 @@ $result = $stmt->get_result();
                     ?>
                 </div>
             </div>
-            <div class="div2"> 
+            <div class="div2">
                 <form action='logout.php' method='post'>
                     <input type='submit' value='Cerrar Sesión' name='logout'>
                 </form>

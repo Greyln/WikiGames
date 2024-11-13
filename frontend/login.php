@@ -32,7 +32,7 @@ if ($result->num_rows > 0) {
     $_SESSION['nombreUsuario'] = $nombreUsuario;
 
     // Redireccionar a index.php
-    header('Location: http://localhost/final/inicio.php');
+    header('Location: http://localhost/final/index.php');
     exit();
 } else {
     echo "<script>alert('Tus credenciales de inicio de sesión no coinciden con ninguna cuenta de nuestro sistema. Ingrese unas credenciales válidas.'); window.location= 'login.html';</script>";

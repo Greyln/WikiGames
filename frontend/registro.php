@@ -39,7 +39,7 @@ if ($conn->query($sql_insertar_usuario) === TRUE) {
     $_SESSION['nombreUsuario'] = $nombre;
 
     // Redireccionar a WikiGames
-    header('Location: http://localhost/final/inicio.php');
+    header('Location: http://localhost/final/index.php');
     exit();
 } else {
     echo "Error: " . $sql_insertar_usuario . "<br>" . $conn->error;
