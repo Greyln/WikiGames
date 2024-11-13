@@ -290,7 +290,7 @@ session_start();
 			</div>
 		</div>
 		<div class="grupo-2">
-			<small>&copy; 2023 <b>WikiGames</b> - Todos los Derechos Reservados.</small>
+			<small>&copy; 2024 <b>WikiGames</b> - Todos los Derechos Reservados.</small>
 		</div>
 	</footer>
 </body>
