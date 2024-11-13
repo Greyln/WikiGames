@@ -1,4 +1,4 @@
-<?php
+<a?php
 // Iniciar la sesión
 session_start();
 
@@ -26,25 +26,27 @@ session_start();
 </head>
 
 <body>
-	<h1 class="titulo">WikiGames <img class="logowikigames" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
+	<h1 class="title">WikiGames <img class="logo" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
+
 	<nav>
-		<p class="logo-Wiki">WikiGames</p>
+		<p>WikiGames</p>
 		<ul class="cont-ul">
 			<li>
-				<a href="./index.php" class="linkNavegador">Inicio</a>
+				<a href="./index.php" class="link">Inicio</a>
 			</li>
 			<li class="develop">
-				<a href="./catalogo.php" class="linkNavegador">Catálogo</a>
+				<a href="./catalogo.php" class="link">Catálogo</a>
 			</li>
 			<li>
-				<a href="./nosotros.php" class="linkNavegador">Nosotros</a>
+				<a href="./nosotros.php" class="link">Nosotros</a>
 			</li>
 			<li>
-				<a href="./usuario.php" class="linkNavegador">Mi cuenta</a>
+				<a href="./usuario.php" class="link">Mi cuenta</a>
 			</li>
 		</ul>
 	</nav>
-	<div class="wrap">
+
+	<main class="wrap">
 		<h1>Galeria de juegos ⇩</h1>
 		<div class="store-wrapper">
 			<div class="category_list">
@@ -84,12 +86,10 @@ session_start();
 						<div class="face back">
 							<h3>Rainbow</h3>
 							<p>Rainbow 6 es un shooter de primera persona táctico donde podes elegir entre todos los
-								personajes
-								el que mas se acomode a tu estilo de juego, son partidas de equipos de cinco atacantes
-								contra
-								cinco defensores.Los defensores deben defender un objetivo y los atacantes deben
-								destruirlo para conseguir la
-								victoria</p>
+								personajes el que mas se acomode a tu estilo de juego, son partidas de equipos de
+								cinco atacantes contra cinco defensores.
+								Los defensores deben defender un objetivo y los atacantes deben destruirlo
+								para conseguir la victoria</p>
 							<div class="link">
 								<a href="./games/rainbow_six.php">Mas</a>
 							</div>
@@ -99,7 +99,7 @@ session_start();
 				<div class="product-item" category="battle royale">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Games/fortnite/origins_2.png" alt="fortnite portada">
+							<img class="imgTarjeta" src="./img/Games/fortnite/portada.png" alt="fortnite portada">
 							<h3>Fortnite</h3>
 						</div>
 						<div class="face back">
@@ -269,7 +269,8 @@ session_start();
 				</div>
 			</section>
 		</div>
-	</div>
+	</main>
+
 	<footer class="pie-pagina">
 		<div class="grupo-1">
 			<div class="box">

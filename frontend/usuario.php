@@ -42,6 +42,8 @@ $result = $stmt->get_result();
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>WikiGames</title>
+	<link rel="stylesheet" href="/frontend/css/common.css">
+	<link rel="stylesheet" href="/frontend/css/nav.css">
 	<link rel="stylesheet" href="/frontend/style/Usuario.css">
 	<style>
 		@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
@@ -57,14 +59,14 @@ $result = $stmt->get_result();
 </head>
 <body>
 
-	<h1 class="titulo">WikiGames <img class="logowikigames" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
+	<h1 class="title">WikiGames <img class="logo" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
 	<nav>
-		<p class="logo-Wiki">WikiGames</p>
-		<ul class="cont-ul">
-			<li><a href="./index.php" class="linkNavegador">Inicio</a></li>
-			<li class="develop"><a href="./catalogo.php" class="linkNavegador">Catálogo</a></li>
-			<li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
-			<li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>
+		<p>WikiGames</p>
+		<ul class="navlist">
+			<li><a href="./index.php" class="link">Inicio</a></li>
+			<li class="develop"><a href="./catalogo.php" class="link">Catálogo</a></li>
+			<li><a href="./nosotros.php" class="link">Nosotros</a></li>
+			<li><a href="./usuario.php" class="link">Mi cuenta</a></li>
 		</ul>
 	</nav>
 

@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1F1F1F;
+}
+
+.title {
+    background-color: #7345d6;
+    color: #bfab93;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+    font-size: 42px;
+    align-items: center;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.link {
+    color: #bfab93;
+    text-decoration: none;
+}
+
+.logo{
+    width: 80px;
+    height: 80px
+}

@@ -1,0 +1,36 @@
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #111111;
+    padding-left: 2vw;
+    color: #bfab93;
+    z-index: 1;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.navlist {
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+
+.navlist li {
+    list-style: none;
+    cursor: pointer;
+    padding: 1.5vw;
+    transition: all .3s ease 0s;
+    z-index: 1;
+}
+
+.navlist li:hover {
+    background-color: #6743a5;
+    z-index: 1;
+}
+
+.develop {
+    position: relative;
+    z-index: 1;
+}

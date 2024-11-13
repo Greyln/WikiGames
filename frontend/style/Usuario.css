@@ -1,9 +1,4 @@
 /* Estilos Generales */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 body {
     background-color: #1F1F1F;
@@ -12,16 +7,7 @@ body {
 }
 
 /* Estilo del Título */
-.titulo {
-    background-color: #7345d6;
-    color: #bfab93;
-    padding: 13px;
-    display: flex;
-    justify-content: center;
-    font-size: 42px;
-    align-items: center;
-    font-family: 'Bebas Neue', sans-serif;
-}
+
 
 /* Navegación */
 nav {
@@ -36,10 +22,7 @@ nav {
     font-size: 20px;
 }
 
-.linkNavegador {
-    color: #bfab93;
-    text-decoration: none;
-}
+
 
 .cont-ul {
     display: flex;
