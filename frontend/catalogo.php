@@ -14,7 +14,7 @@ session_start();
 	<title>WikiGames</title>
 	<link rel="stylesheet" href="/frontend/style/catalogo.css">
 	<link rel="stylesheet" href="/frontend/style/footer.css">
-	<link rel="stylesheet" href="/frontend/style/Catologo2.css">
+	<link rel="stylesheet" href="/frontend/style/catalogo2.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
 	<style>
 		@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
