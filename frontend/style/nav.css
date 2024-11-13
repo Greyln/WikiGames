@@ -72,7 +72,7 @@ li:hover {
 }
 
 .Noticias1, .Noticias2, .Noticias3, .Noticias4, .Noticias5 {
-    background-color: #c13252;
+    background-color: #221049;
     padding: 8px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -139,6 +139,10 @@ li:hover {
     padding-top: 15px;
 }
 
+.logowikigames{
+    width: 80px;
+    height: 80px
+}
 
 .SubtituloJuegos {
     font-family: 'Bebas Neue', sans-serif;
