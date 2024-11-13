@@ -30,7 +30,7 @@ session_start();
     <nav>
         <p class="logo-Wiki">WikiGames</p>
         <ul class="cont-ul">
-            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
@@ -52,7 +52,7 @@ session_start();
 				<div class="product-item" category="Shoter Tactico">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Games/jett_portada.png" alt="Valorant portada">
+							<img class="imgTarjeta" src="./img/Games/valorant/portada_jett.png" alt="Valorant portada">
 							<h3>Valorant</h3>
 						</div>
 						<div class="face back">
@@ -71,7 +71,7 @@ session_start();
 				<div class="product-item" category="Shoter Tactico">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Games/rainbow_portada.png" alt="Rainbow portada">
+							<img class="imgTarjeta" src="./img/Games/rainbow_six/portada.png" alt="Rainbow portada">
 							<h3>Rainbow</h3>
 						</div>
 						<div class="face back">
@@ -92,7 +92,7 @@ session_start();
 				<div class="product-item" category="battle royale">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Games/fortnite_og2.png" alt="fortnite portada">
+							<img class="imgTarjeta" src="./img/Games/fortnite/origins_2.png" alt="fortnite portada">
 							<h3>Fortnite</h3>
 						</div>
 						<div class="face back">
@@ -110,7 +110,7 @@ session_start();
 				<div class="product-item" category="Moba">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Games/lol_portada.png" alt="Lol portada">
+							<img class="imgTarjeta" src="./img/Games/lol/portada.png" alt="Lol portada">
 							<h3>League of Legends</h3>
 						</div>
 						<div class="face back">
