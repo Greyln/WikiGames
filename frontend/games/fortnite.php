@@ -32,8 +32,8 @@ session_start();
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
-            <li class="develop"><a href="./catalogo.html " class="linkNavegador">Catalogo</a>
+            <li><a href="./index.php" class="linkNavegador">Inicio</a></li>
+            <li class="develop"><a href="./catalogo.html" class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
             <li><a href="./usuario.php" class="linkNavegador">Mi cuenta</a></li>

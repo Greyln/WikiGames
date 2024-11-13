@@ -66,9 +66,9 @@ $result = $stmt->get_result();
   <nav>
         <p class="logo-Wiki">WikiGames</p>
         <ul class="cont-ul">
-            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php" class="linkNavegador">Inicio</a></li>
             <li><a href="./noticias.php" class="linkNavegador">Noticias</a></li>
-            <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
+            <li class="develop"><a href="./catalogo.php" class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
             <li><a href="./perfil2.php" class="linkNavegador">Perfil</a></li>
