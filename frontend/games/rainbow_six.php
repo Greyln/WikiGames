@@ -32,7 +32,7 @@ session_start();
         <ul class="cont-ul">
             <input type="checkbox" id="estrelaCheckbox">
             <label for="estrelaCheckbox"></label>
-            <li><a href="./inicio.php " class="linkNavegador">Inicio</a></li>
+            <li><a href="./index.php " class="linkNavegador">Inicio</a></li>
             <li class="develop"><a href="./catalogo.php " class="linkNavegador">Catalogo</a>
             </li>
             <li><a href="./nosotros.php" class="linkNavegador">Nosotros</a></li>
@@ -44,12 +44,13 @@ session_start();
             <div class="portada">
                 <h1>Rainbow six</h1>
             </div>
+            <img src="./img/Games/rainbow_six/banner.png" alt="Banner">
 
             <div class="contenedorGrilla2">
                 <div class="div10">
                     <p class="parrafo10">Introducion:</p>
                     <p class="parrafo10">Rainbow six es un shooter de primera persona táctico donde podes elegir entre todos los personajes
-                         el que mas se acomode a tu estilo de juego, son partidas de equipos de cinco atacantes contra cinco defensores.
+                        el que mas se acomode a tu estilo de juego, son partidas de equipos de cinco atacantes contra cinco defensores.
                         Los defensores deben defender un objetivo y los atacantes deben destruirlo para conseguir la victoria
                     </p>
                 </div>
@@ -63,31 +64,31 @@ session_start();
                 <div class="image-grid">
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=4YHfaX2BIYM&list=PLFm6NSJeDkOcnxhInSuE7bAatIEE_1fwX&pp=gAQBiAQBhttps://www.youtube.com/watch?v=4YHfaX2BIYM&list=PLFm6NSJeDkOcnxhInSuE7bAatIEE_1fwX&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/agentesr.jpg" alt="Imagen 1">
+                            <img src="./img/Games/rainbow_six/agentes.jpg" alt="Imagen 1">
                             <p class="image-caption">Agentes</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=4HbqydbqCQI&list=PLFm6NSJeDkOeeJ1pNjHNBgSBnAZLZUSkg&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/mejora aim.jpg" alt="Imagen 2">
+                            <img src="./img/Games/rainbow_six/mejora_aim.jpg" alt="Imagen 2">
                             <p class="image-caption">Mejora tu ain</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=i8SPbbk-AtI&list=PLFm6NSJeDkOfgTWNcHBx9ZOksYtTkGofZ&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/modor.png" alt="Imagen 3">
+                            <img src="./img/Games/rainbow_six/game_modes.png" alt="Imagen 3">
                             <p class="image-caption">Modos de juegos</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=Dko4xgD7RGY&list=PLFm6NSJeDkOdzRMRF-USX7TEcqUImi98l&pp=gAQBiAQB">
-                            <img src="./img/Games/rainbow_six/mapass.jpg" alt="Imagen 5">
+                            <img src="./img/Games/rainbow_six/aprende_mapas.jpg" alt="Imagen 5">
                             <p class="image-caption">Mapas</p>
                         </a>
                     </div>
                     <div class="image-item">
                         <a href="https://www.youtube.com/watch?v=oxoBppBUJmU&list=PLFm6NSJeDkOcNaNKmE4KbeYGgBrB1_6WH">
-                            <img src="./img/Games/rainbow_six/conseses.jpg" alt="Imagen 6">
+                            <img src="./img/Games/rainbow_six/consejos.jpg" alt="Imagen 6">
                             <p class="image-caption">Consejos</p>
                         </a>
                     </div>
@@ -107,7 +108,7 @@ session_start();
                 <div class="image-grid3">
                     <div class="image-item2">
                         <a href="https://www.youtube.com/watch?v=wpKSullQGhQ" target="_blank">
-                            <img src="./img/Games/rainbow_six/Jefemaestro.jpg" alt="Imagen 1">
+                            <img src="./img/Games/rainbow_six/master_chief.jpg" alt="Imagen 1">
                             <p class="image-caption">El Jefe Maestro ya ha llegado a Rainbow six</p>
                         </a>
                     </div>
