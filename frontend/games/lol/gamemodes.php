@@ -25,7 +25,7 @@ session_start();
     <link rel="shortcut icon" href="./img/favicon.ico">
 </head>
 
-<body class="body">
+<body>
     <h1 class="titulo">WikiGames</h1>
  body
         <p class="logo-Wiki">WikiGames</p>

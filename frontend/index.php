@@ -27,7 +27,7 @@ session_start();
 <body
 
 
-<body class="body">
+<body>
     <h1 class="titulo">WikiGames</h1>
     <nav>
         <p class="logo-Wiki">WikiGames</p>
