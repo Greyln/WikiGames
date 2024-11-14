@@ -1,4 +1,4 @@
-<?php
+<head?php
 // Iniciar la sesión
 session_start();
 
@@ -24,8 +24,7 @@ session_start();
 	<style>
 		@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 	</style>
-<body
-
+</head>
 
 <body>
 	<h1 class="titulo">WikiGames <img class="logowikigames" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
@@ -48,9 +47,9 @@ session_start();
 				<video width="100%" loop autoplay muted>
 					<source src="./videos/Lol Linkin Park.mp4" type="video/mp4">
 					Tu navegador no soporta el elemento de video.
-				</video></a>
+				</video>
+			</a>
 		</div>
-		</a>
 		<div class="Noticias2">
 			<a href="https://www.twitch.tv/n0guito" target="_blank">
 				<img src="./img/twich_follow.png" alt="Anuncio" width="100%">
@@ -87,7 +86,7 @@ session_start();
 		<div class="div1">
 			<div class="card">
 				<div class="face front">
-					<img class="imgTarjeta" src="./img/Games/fortnite/origins_2.png" alt="portadaFortnite">
+					<img class="imgTarjeta" src="./img/Games/fortnite/portada.png" alt="portadaFortnite">
 					<h3>Fortnite</h3>
 				</div>
 				<div class="face back">

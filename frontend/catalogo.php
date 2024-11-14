@@ -99,7 +99,7 @@ session_start();
 				<div class="product-item" category="battle royale">
 					<div class="card">
 						<div class="face front">
-							<img class="imgTarjeta" src="./img/Games/fortnite/origins_2.png" alt="fortnite portada">
+							<img class="imgTarjeta" src="./img/Games/fortnite/portada.png" alt="fortnite portada">
 							<h3>Fortnite</h3>
 						</div>
 						<div class="face back">

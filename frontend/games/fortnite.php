@@ -27,6 +27,7 @@ session_start();
 
 <body>
 	<h1 class="titulo">WikiGames</h1>
+	<nav>
 		<p class="logo-Wiki">WikiGames</p>
 		<ul class="cont-ul">
 			<input type="checkbox" id="estrelaCheckbox">
@@ -129,23 +130,23 @@ session_start();
 				</div>
 				<div class="image-grid3">
 					<div class="image-item2">
-						<a href="https://www.youtube.com/@Ninja" target="_blank"><img src="./img/Ninja.jpg" alt="Imagen 1"></a>
+						<a href="https://www.youtube.com/@Ninja" target="_blank"><img src="./img/Players/Ninja.jpg" alt="Imagen 1"></a>
 						<p class="image-caption">Ninja</p>
 					</div>
 					<div class="image-item2">
-						<a href="https://www.youtube.com/@k1ng" target="_blank"><img src="./img/king.png" alt="Imagen 2"></a>
+						<a href="https://www.youtube.com/@k1ng" target="_blank"><img src="./img/Players/king.png" alt="Imagen 2"></a>
 						<p class="image-caption">King</p>
 					</div>
 					<div class="image-item2">
-						<a href="https://www.youtube.com/MalibucaFN" target="_blank"><img src="./img/Malibuca.png" alt="Imagen 3"></a>
+						<a href="https://www.youtube.com/MalibucaFN" target="_blank"><img src="./img/Players/Malibuca.png" alt="Imagen 3"></a>
 						<p class="image-caption">MalibucaFN</p>
 					</div>
 					<div class="image-item2">
-						<a href="https://www.youtube.com/@LOLiTOFDEZ" target="_blank"><img src="./img/Lolito.png" alt="Imagen 4"></a>
+						<a href="https://www.youtube.com/@LOLiTOFDEZ" target="_blank"><img src="./img/Players/Lolito.png" alt="Imagen 4"></a>
 						<p class="image-caption">LOLiTO FDEZ</p>
 					</div>
 					<div class="image-item2">
-						<a href="https://www.youtube.com/@bugha" target="_blank"> <img src="./img/Bugha.jpg" alt="Imagen 5"></a>
+						<a href="https://www.youtube.com/@bugha" target="_blank"> <img src="./img/Players/Bugha.jpg" alt="Imagen 5"></a>
 						<p class="image-caption">Bugha</p>
 					</div>
 				</div>

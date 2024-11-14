@@ -27,6 +27,7 @@ session_start();
 
 <body>
 	<h1 class="titulo">WikiGames</h1>
+	<nav>
 		<p class="logo-Wiki">WikiGames</p>
 		<ul class="cont-ul">
 			<input type="checkbox" id="estrelaCheckbox">
@@ -129,7 +130,7 @@ session_start();
 					</div>
 					<div class="image-item2">
 						<p class="image-caption">SOPORTE</p>
-						<img src="./img/Games/lol/Milio.jpg" alt="Imagen 5">
+						<img src="./img/Games/lol/champ/Milio.jpg" alt="Imagen 5">
 						<p class="image-caption">Milio</p>
 					</div>
 				</div>
