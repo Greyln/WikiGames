@@ -111,7 +111,7 @@ CREATE TABLE `usuarios` (
   `id_usuario` int NOT NULL AUTO_INCREMENT,
   `correo` varchar(255) NOT NULL,
   `usuario` varchar(255) NOT NULL,
-  `contraseña` varchar(255) NOT NULL,
+  `password` varchar(255) NOT NULL,
   `nombre` varchar(255) NOT NULL,
   `apellido` varchar(255) NOT NULL,
   PRIMARY KEY (`id_usuario`)
