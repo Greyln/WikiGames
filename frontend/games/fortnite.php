@@ -27,7 +27,7 @@ session_start();
 
 <body>
 	<h1 class="title">WikiGames <img class="logo" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
- body
+	<nav>
 		<p>WikiGames</p>
 		<ul class="cont-ul">
 			<input type="checkbox" id="estrelaCheckbox">
@@ -117,7 +117,7 @@ session_start();
 				<div class="image-grid2">
 						<div class="image-item3">
 							<a href="https://youtu.be/DYCHnvJXTaQ?si=w5T0NTUhWmz6kUSW" target="_blank">
-								<img src="./img/Lorefortnite.jpg" alt="Imagen 1">
+								<img src="./img/Games/fortnite/lore.jpg" alt="Imagen 1">
 								<p class="image-caption">LA HISTORIA OCULTA de FORTNITE</p>
 							</a>
 						</div>
@@ -130,19 +130,19 @@ session_start();
 				</div>
 				<div class="image-grid3">
 					<div class="image-item2">
-						<a href="https://www.youtube.com/@Ninja" target="_blank"><img src="./img/Ninja.jpg" alt="Imagen 1"></a>
+						<a href="https://www.youtube.com/@Ninja" target="_blank"><img src="./img/Players/Ninja.jpg" alt="Imagen 1"></a>
 						<p class="image-caption">Ninja</p>
 					</div>
 					<div class="image-item2">
-						<a href="https://www.youtube.com/@k1ng" target="_blank"><img src="./img/king.png" alt="Imagen 2"></a>
+						<a href="https://www.youtube.com/@k1ng" target="_blank"><img src="./img/Players/king.png" alt="Imagen 2"></a>
 						<p class="image-caption">King</p>
 					</div>
 					<div class="image-item2">
-						<a href="https://www.youtube.com/MalibucaFN" target="_blank"><img src="./img/Malibuca.png" alt="Imagen 3"></a>
+						<a href="https://www.youtube.com/MalibucaFN" target="_blank"><img src="./img/Players/Malibuca.png" alt="Imagen 3"></a>
 						<p class="image-caption">MalibucaFN</p>
 					</div>
 					<div class="image-item2">
-						<a href="https://www.youtube.com/@LOLiTOFDEZ" target="_blank"><img src="./img/Lolito.png" alt="Imagen 4"></a>
+						<a href="https://www.youtube.com/@LOLiTOFDEZ" target="_blank"><img src="./img/Players/Lolito.png" alt="Imagen 4"></a>
 						<p class="image-caption">LOLiTO FDEZ</p>
 					</div>
 					<div class="image-item2">

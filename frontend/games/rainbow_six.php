@@ -27,7 +27,7 @@ session_start();
 
 <body>
 	<h1 class="title">WikiGames <img class="logo" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
- body
+	<nav>
 		<p>WikiGames</p>
 		<ul class="cont-ul">
 			<input type="checkbox" id="estrelaCheckbox">

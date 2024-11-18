@@ -27,7 +27,7 @@ session_start();
 
 <body>
 	<h1 class="title">WikiGames <img class="logo" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
- body
+	<nav>
 		<p>WikiGames</p>
 		<ul class="cont-ul">
 			<input type="checkbox" id="estrelaCheckbox">
@@ -110,27 +110,27 @@ session_start();
 				<div class="image-grid2">
 					<div class="image-item2">
 						<p class="image-caption">TOP</p>
-						<img src="./img/Games/lol/champs/Jax.jpg" alt="Imagen 1">
+						<img src="./img/Games/lol/champ/Jax.jpg" alt="Imagen 1">
 						<p class="image-caption">Jax</p>
 					</div>
 					<div class="image-item2">
 						<p class="image-caption">Jungla</p>
-						<img src="./img/Games/lol/champs/Nidalee.jpg" alt="Imagen 2">
+						<img src="./img/Games/lol/champ/Nidalee.jpg" alt="Imagen 2">
 						<p class="image-caption">Nidalee</p>
 					</div>
 					<div class="image-item2">
 						<p class="image-caption">MID</p>
-						<img src="./img/Games/lol/champs/Annie.jpg" alt="Imagen 3">
+						<img src="./img/Games/lol/champ/Annie.jpg" alt="Imagen 3">
 						<p class="image-caption">Annie</p>
 					</div>
 					<div class="image-item2">
 						<p class="image-caption">ADC</p>
-						<img src="./img/Games/lol/champs/Aphelios.jpg" alt="Imagen 4">
+						<img src="./img/Games/lol/champ/Aphelios.jpg" alt="Imagen 4">
 						<p class="image-caption">Aphelios</p>
 					</div>
 					<div class="image-item2">
 						<p class="image-caption">SOPORTE</p>
-						<img src="./img/Games/lol/Milio.jpg" alt="Imagen 5">
+						<img src="./img/Games/lol/champ/Milio.jpg" alt="Imagen 5">
 						<p class="image-caption">Milio</p>
 					</div>
 				</div>

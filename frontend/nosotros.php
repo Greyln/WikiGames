@@ -29,20 +29,22 @@ session_start();
 
 <body>
 	<h1 class="title">WikiGames <img class="logo" src="/frontend/img/favicon.ico" alt="logo-Wiki"></h1>
-	<ul class="cont-ul">
-		<li>
-			<a href="./index.php" class="link">Inicio</a>
-		</li>
-		<li class="develop">
-			<a href="./catalogo.php" class="link">Catálogo</a>
-		</li>
-		<li>
-			<a href="./nosotros.php" class="link">Nosotros</a>
-		</li>
-		<li>
-			<a href="./usuario.php" class="link">Mi cuenta</a>
-		</li>
-	</ul>
+	<nav>
+		<ul class="cont-ul">
+			<li>
+				<a href="./index.php" class="link">Inicio</a>
+			</li>
+			<li class="develop">
+				<a href="./catalogo.php" class="link">Catálogo</a>
+			</li>
+			<li>
+				<a href="./nosotros.php" class="link">Nosotros</a>
+			</li>
+			<li>
+				<a href="./usuario.php" class="link">Mi cuenta</a>
+			</li>
+		</ul>
+	</nav>
 
 	<div class="portada">
 		<h1>WikiGames</h1>
@@ -80,7 +82,7 @@ session_start();
 		<div class="div1">
 			<div class="card">
 				<div class="face front">
-					<img src="./img/Joaquinpixar.jpg" alt="foto">
+					<img src="./img/Team/Joaquin_pixar.jpg" alt="foto">
 					<h3>Joaquin Andreis</h3>
 				</div>
 				<div class="face back">
@@ -94,7 +96,7 @@ session_start();
 
 			<div class="card">
 				<div class="face front">
-					<img src="./img/mateo pixar.jpg" alt="foto">
+					<img src="./img/Team/Mateo_pixar.jpg" alt="foto">
 					<h3>Mateo Baez</h3>
 				</div>
 				<div class="face back">
@@ -107,7 +109,7 @@ session_start();
 			</div>
 			<div class="card">
 				<div class="face front">
-					<img src="./img/boland pixar.jpg " alt="foto">
+					<img src="./img/Team/Boland_pixar.jpg " alt="foto">
 					<h3>Facundo Boland</h3>
 				</div>
 				<div class="face back">
@@ -125,7 +127,7 @@ session_start();
 		<div class="div1">
 			<div class="card">
 				<div class="face front">
-					<img src="./img/Motomoto.jpg" alt="foto">
+					<img src="./img/Team/Motomoto_pixar.jpg" alt="foto">
 					<h3>Agustin Miyazono</h3>
 				</div>
 				<div class="face back">
@@ -139,7 +141,7 @@ session_start();
 
 			<div class="card">
 				<div class="face front">
-					<img src="./img/Dhani.jpg" alt="foto">
+					<img src="./img/Team/Dhani_pixar.jpg" alt="foto">
 					<h3>Danilo Casagrande</h3>
 				</div>
 				<div class="face back">
@@ -152,7 +154,7 @@ session_start();
 			</div>
 			<div class="card">
 				<div class="face front">
-					<img src="./img/Maco.jpg " alt="foto">
+					<img src="./img/Team/Maco_pixar.jpg " alt="foto">
 					<h3>Marco Zapana</h3>
 				</div>
 				<div class="face back">

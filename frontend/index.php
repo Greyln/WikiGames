@@ -69,7 +69,7 @@ session_start();
 		</article>
 
 		<article class="Noticias3">
-			<img src="./img/Noticias/operation-new-blood.png" alt="Noticia 3" width="100%">
+			<img src="./img/Noticias/operation_new_blood.png" alt="Noticia 3" width="100%">
 			<a href="https://youtu.be/iNugljaf0Sw?si=582y31aScBf5d7PV" target="_blank">
 				<p>Rainbow Six Siege: Operation New Blood tráiler cinemático</p>
 			</a>
@@ -83,7 +83,7 @@ session_start();
 		</article>
 
 		<article class="Noticias5">
-			<img src="./img/Noticias/arcane.png" alt="Noticia 5" width="100%">
+			<img src="./img/Noticias/arcane_article.png" alt="Noticia 5" width="100%">
 			<a href="https://youtu.be/_Ke8AVNsZCY?si=xb0dvj9rWU2RzrCW" target="_blank">
 				<p>Estreno comunitario mundial de la segunda temporada de Arcane</p>
 			</a>

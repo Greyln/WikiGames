@@ -57,7 +57,7 @@ session_start();
 			<div class="div1">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/sentinells of light 2.0.png" alt=" img2" class="imgTarjeta">
+						<img src="./img/Noticias/sentinells_of_light 2.0.png" alt=" img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva Pack de skins</h3>
@@ -88,7 +88,7 @@ session_start();
 			<div class="div2">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
@@ -117,7 +117,7 @@ session_start();
 			<div class="div3">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
@@ -145,7 +145,7 @@ session_start();
 			<div class="div4">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/messi en kru.jpg" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/kru_sumate_messi.jpg" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">LEO MESSI SE CONVIERTE EN COPROPIETARIO DE KRÜ ESPORTS</h3>
@@ -171,7 +171,7 @@ session_start();
 			<div class="div5">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
@@ -202,7 +202,7 @@ session_start();
 			<div class="div1">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
@@ -229,7 +229,7 @@ session_start();
 			<div class="div2">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
@@ -257,7 +257,7 @@ session_start();
 			<div class="div3">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
@@ -286,7 +286,7 @@ session_start();
 			<div class="div4">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
@@ -315,7 +315,7 @@ session_start();
 			<div class="div5">
 				<div class="tarjeta">
 					<div class="interiortarjeta1">
-						<img src="./img/Noticias/ognoticia2.png" alt="img2" class="imgTarjeta">
+						<img src="./img/Noticias/fornite_og_article.png" alt="img2" class="imgTarjeta">
 					</div>
 					<div class="interiortarjeta2">
 						<h3 class="ptarjeta">Nueva temporada</h3>
